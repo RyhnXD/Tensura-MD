@@ -702,14 +702,14 @@ module.exports = {
                 if (chat.welcome) {
                     let groupMetadata = await this.groupMetadata(id) || (conn.chats[id] || {}).metadata
                     for (let user of participants) {
-                       let pp = 'https://telegra.ph/file/ddd756ee15579bdfba651.jpg'
+                       let pp = 'https://telegra.ph/file/4ebea141a2d110c9959f6.jpg'
                         try {
                             pp = await this.profilePictureUrl(user, 'image')
                         } catch (e) {
                         } finally {
-                            text = (action === 'add' ? (chat.sWelcome || this.welcome || conn.welcome || 'Yah,si Beban Masuk Grup @user').replace('@subject', groupMetadata.subject).replace('@desc', groupMetadata.desc.toString()) :
-                                (chat.sBye || this.bye || conn.bye || 'Sip, Beban Berkurang @user!')).replace('@user', '@' + user.split('@')[0])
-                                this.sendButtonImg(id, pp, text, "ᯤ by creator bot", "AWOKAWOAK", "bebanjoin", null)
+                            text = (action === 'add' ? (chat.sWelcome || this.welcome || conn.welcome || 'thank you for joining the group @user').replace('@subject', groupMetadata.subject).replace('@desc', groupMetadata.desc.toString()) :
+                                (chat.sBye || this.bye || conn.bye || 'Goodbye @user!')).replace('@user', '@' + user.split('@')[0])
+                                this.sendButtonImg(id, pp, text, "ᯤ ʟᴜᴍɪɴᴏᴜs-ᴍᴅ", "ᴀᴡᴏᴋᴀᴡᴏᴋ🐦", "bebanjoin", null)
                                 }
                     }
                 }
