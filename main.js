@@ -63,7 +63,7 @@ loadDatabase()
 // if (opts['cluster']) {
 //   require('./lib/cluster').Cluster()
 // }
-global.authFile = `${opts._[0] || 'krizyn'}.data.json`
+global.authFile = `${opts._[0] || 'rayhan'}.data.json`
 global.isInit = !fs.existsSync(authFile)
 const { state, saveState } = useSingleFileAuthState(global.authFile)
 
@@ -124,10 +124,10 @@ global.reloadHandler = function (restatConn) {
     conn.ev.off('creds.update', conn.credsUpdate)
   }
 
-  conn.welcome = '*Welcome di gruop @subject*'
+  conn.welcome = '*ᴛʜᴀɴᴋs ғᴏʀ ᴊᴏɪɴɪɴɢ ɢʀᴏᴜᴘ @user ɪɴ @subject*'
   conn.bye = '*Nice, @user keluar beban berkurang....*'
-  conn.spromote = '╭──֍ 〔 ıll 𝗔𝗗𝗠𝗜𝗡 𝗚𝗥𝗢𝗨𝗣 llı 〕 ֍───\n│╭───────────\n││─⬣ Name : @user\n││─⬣ Desc : Jagain groupnya\n│╰───────────\n╰─────────────────────\n\n📮 Hello | Titip Group nya😉\n📮 Salam dari wa.me/6285828764046'
-  conn.sdemote = '╭──֍ 〔 ıll 𝗨𝗡𝗔𝗗𝗠𝗜𝗡 𝗚𝗥𝗢𝗨𝗣 llı 〕 ֍───\n│╭───────────\n││─⬣ Name : @user\n││─⬣ Desc : Nah kan kurang kerjasama\n│╰───────────\n╰─────────────────────\n\n📮 Hello | Kasian deh😉\n📮 Salam dari wa.me/6285828764046'
+  conn.spromote = '╭──֍ 〔 ıll 𝗔𝗗𝗠𝗜𝗡 𝗚𝗥𝗢𝗨𝗣 llı 〕 ֍───\n│╭───────────\n││─⬣ Name : @user\n││─⬣ Desc : Jagain groupnya\n│╰───────────\n╰─────────────────────\n\n📮 Hello | Titip Group nya😉\n📮 ʟᴜᴍɪɴᴏᴜs-ᴍᴅ'
+  conn.sdemote = '╭──֍ 〔 ıll 𝗨𝗡𝗔𝗗𝗠𝗜𝗡 𝗚𝗥𝗢𝗨𝗣 llı 〕 ֍───\n│╭───────────\n││─⬣ Name : @user\n││─⬣ Desc : Nah kan kurang kerjasama\n│╰───────────\n╰─────────────────────\n\n📮 Hello | ᴀᴡᴏᴋᴀᴡᴏᴋ ᴅɪ ᴜɴᴅᴀᴅᴍɪɴ😂\n📮 ʟᴜᴍɪɴᴏᴜs-ᴍᴅ'
   conn.handler = handler.handler.bind(conn)
   conn.participantsUpdate = handler.participantsUpdate.bind(conn)
   conn.onDelete = handler.delete.bind(conn)
