@@ -5,11 +5,11 @@ VERSION:3.0
 N:;;;
 FN: Han
 item.ORG: Ham
-item1.TEL;waid=6289524208209:6289524208209@s.whatsapp.net
+item1.TEL;waid=62895627514070:62895627514070@s.whatsapp.net
 item1.X-ABLabel:owner selalu ada 
-item2.EMAIL;type=INTERNET: anidaanida59@gmail.com
+item2.EMAIL;type=INTERNET: komnthol@gmail.com
 item2.X-ABLabel:📧Email
-item3.ADR:;;🎍Pontianak;;;;
+item3.ADR:;;🎍Badung;;;;
 item3.X-ABADR:ac
 item3.X-ABLabel:asal kota
 item4.URL:https//github.com/RyhnXD
@@ -24,8 +24,8 @@ const sentMsg  = await conn.sendMessage(
         }
     }
 )
-let rozi = 'https://telegra.ph/file/6de3ca8fe283f2e236ec4.jpg'
-await conn.send3ButtonImg(m.chat, rozi, "*Hai kak👋,  Itu nomor owner gw…*", '📮: jngn di spam kack', 'Source code', '.sc', 'Back', '.menu', 'Donasi', '.donasi', sentMsg)}
+let rozi = 'https://telegra.ph/file/cc1b5b996d3791e89ebf5.jpg'
+await conn.send3ButtonImg(m.chat, rozi, "*Hai kak👋,  ɪᴛᴜ ɴᴏᴍᴏʀ ᴏᴡɴᴇʀ ᴋᴜ ᴋᴀᴋ…*", '📮: ᴊᴀɴɢᴀɴ ᴅɪ sᴘᴀᴍ ʏᴀ', 'Credits', '.tqto', 'Back', '.menu', 'Donasi', '.donasi', sentMsg)}
 handler.help = ['owner2', 'creator2']
 handler.tags = ['info']
 
