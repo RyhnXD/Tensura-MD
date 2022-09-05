@@ -709,7 +709,7 @@ module.exports = {
                         } finally {
                             text = (action === 'add' ? (chat.sWelcome || this.welcome || conn.welcome || 'thank you for joining the group @user').replace('@subject', groupMetadata.subject).replace('@desc', groupMetadata.desc.toString()) :
                                 (chat.sBye || this.bye || conn.bye || 'Goodbye @user!')).replace('@user', '@' + user.split('@')[0])
-                                this.sendButtonImg(id, pp, text, "ᯤ ʟᴜᴍɪɴᴏᴜs-ᴍᴅ", "ᴀᴡᴏᴋᴀᴡᴏᴋ🐦", "bebanjoin", null)
+                                this.sendButtonImg(id, pp, text, "ᯤ ʟᴜᴍɪɴᴏᴜs-ᴍᴅ", "ᴡᴇʟᴄᴏᴍᴇ👋", "ok", null)
                                 }
                     }
                 }
