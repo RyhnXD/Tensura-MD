@@ -42,22 +42,8 @@ const defaultMenu = {
   header: '╭─❑ 〔 %category 〕 ❑─\n┃',
   body: '┃❑ %cmd %islimit %isPremium',
   footer: '┃\n╰────────❑\n', 
-  footerText: 'Powered by Rozi',
-  after: `
-╭──〔  THANKS TO  〕─⬣
-⫹⫺ Allah SWT
-⫹⫺ Orang Tua
-⫹⫺ Kesabaran
-⫹⫺ Penyemangat
-⫹⫺ Nurutomo
-⫹⫺ Ilmanhdyt
-⫹⫺ Elyas
-⫹⫺ Hyzer
-⫹⫺ KrizynOfc
-⫹⫺ RielgansOfc
-⫹⫺ Zifabotz_offc1
-╰─────────────⬣
-`,
+  footerText: 'ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʜᴀɴ',
+  after: `☂︎ʟᴜᴍɪɴᴏᴜs-ᴍᴅ`,
 }
 
 //━━━━━━━━[ CATEGORY ]━━━━━━━━//
