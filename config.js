@@ -25,9 +25,9 @@ global.gopay = 'Ga ada :v' //ganti pakai nomor Gopay mu
 
 //=============『 Info Bot 』=================//
 global.namebot = 'ʟᴜᴍɪɴᴏᴜs-ᴍᴅ' //ganti jadiin nama bot mu
-global.gc = 'https://chat.whatsapp.com/IW8emmdnFX3Jioe04wO1rf' //ganti pakai grup mu
-global.web = 'https://chat.whatsapp.com/IW8emmdnFX3Jioe04wO1rf' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://chat.whatsapp.com/IW8emmdnFX3Jioe04wO1rf' //ganti pakai Instagram mu
+global.gc = 'https://chat.whatsapp.com/J5nGyTN0afU4o6uPHk2ab2' //ganti pakai grup mu
+global.web = 'https://chat.whatsapp.com/J5nGyTN0afU4o6uPHk2ab2' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://chat.whatsapp.com/J5nGyTN0afU4o6uPHk2ab2' //ganti pakai Instagram mu
 global.saweria = 'https://saweria.co/zifabotz123' //bebas ganti aja pakai apa
 global.nomer = 'https://wa.me/62895627514070' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
