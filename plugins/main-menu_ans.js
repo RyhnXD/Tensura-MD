@@ -2,7 +2,7 @@ const { default: makeWASocket, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessa
 let fs = require('fs')
 let handler = async (m) => {
 let krizyn = `
-*Hallo user Bot👋,* 
+*Hallo user bot👋,* 
 
 *Saya adalah Bot WhatsApp Multi Device yang di buat oleh Creator kami.*
 Bot ini bisa membantu kamu atau mempermudah kamu membuat sesuatu atau pun mendownload sesuatu seperti:
@@ -14,7 +14,7 @@ Bot ini bisa membantu kamu atau mempermudah kamu membuat sesuatu atau pun mendow
             hydratedTemplate: {
                 hydratedContentText: krizyn,
                 imageMessage: message.imageMessage, 
-           hydratedFooterText: '[❗] Silahkan pilih Command Dibawah ini',
+           hydratedFooterText: '[❗] sɪʟᴀʜᴋᴀɴ ᴘɪʟɪʜ ᴄᴏᴍᴍᴀɴᴅ ᴅɪ ʙᴀᴡᴀʜ ɪɴɪ',
            hydratedButtons: [{
              urlButton: {
                displayText: '🔮GroupBot🔮',
@@ -24,7 +24,7 @@ Bot ini bisa membantu kamu atau mempermudah kamu membuat sesuatu atau pun mendow
            },
                 {
                urlButton: {
-               displayText: '🐻Instagram creator🐻',
+               displayText: '🐦Instagram creator🐦',
                url: web
              }
 
@@ -38,15 +38,15 @@ Bot ini bisa membantu kamu atau mempermudah kamu membuat sesuatu atau pun mendow
            },
                {
              quickReplyButton: {
-               displayText: 'SOURCE CODE',
-               id: '.sc',
+               displayText: 'OWNER',
+               id: '.owner',
              }
              
              },
                {
              quickReplyButton: {
                displayText: 'COMMAND',
-               id: '.zifa',
+               id: '.menulist',
              }
 
            }]
