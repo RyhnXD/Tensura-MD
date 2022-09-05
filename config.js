@@ -5,31 +5,31 @@
 // RECODE BY ZIFABOTZ
 
 //=============『 Utama 』================== //
-global.owner = ['6289524208209'] //ganti pakai nomormu biar bot berfungsi
-global.mods = ['6289524208209'] //ganti pakai nomormu biar bot berfungsi
-global.prems = ['6289524208209'] //ganti pakai nomormu biar bot berfungsi
+global.owner = ['62895627514070'] //ganti pakai nomormu biar bot berfungsi
+global.mods = ['62895627514070'] //ganti pakai nomormu biar bot berfungsi
+global.prems = ['62895627514070'] //ganti pakai nomormu biar bot berfungsi
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Han'
-global.numberowner = '6289524208209' //ganti pakai nomor mu
-global.instagram = 'https://instagram.com/rayhannr24' //ganti pakai Instagram mu
+global.nameowner = 'ʀᴀʏ'
+global.numberowner = '62895627514070' //ganti pakai nomor mu
+global.instagram = 'https://instagram.com/79695' //ganti pakai Instagram mu
 global.github = 'https://github.com/RyhnXD' //ganti aja pakai githubmu
-global.tt = 'https://vt.tiktok.com/ZSdom6Sya/?k=1' //ganti aja pakai tiktok mu
-global.sc = 'https://youtu.be/lMcwJMp_0rM' //jngn ganti hargai creator
-global.ss = 'https://youtu.be/3m7tRD4RklM' //jngn ganti hargai creator
-global.sss = 'https://youtu.be/PzUH1ApMCig' //jngn ganti hargai creator
-global.yt = 'https://youtube.com/channel/UCeUvY_fIVSAaQ1n5SAylI-A'
+global.tt = 'ᴀᴅᴀ' //ganti aja pakai tiktok mu
+global.sc = 'https://youtu.be/67755' //jngn ganti hargai creator
+global.ss = 'ᴀᴅᴀ' //jngn ganti hargai creator
+global.sss = 'ᴀᴅᴀ' //jngn ganti hargai creator
+global.yt = 'ɢᴀ ᴀᴅᴀ'
 global.dana = '085828764046' //ganti pakai nomor dana mu
 global.pulsa = '085828764046' //ganti pakai nomor pulsa mu
 global.gopay = '085828764046' //ganti pakai nomor Gopay mu
 
 //=============『 Info Bot 』=================//
-global.namebot = 'SakuraBotz' //ganti jadiin nama bot mu
+global.namebot = 'ʟᴜᴍɪɴᴏᴜs-ᴍᴅ' //ganti jadiin nama bot mu
 global.gc = 'https://chat.whatsapp.com/IW8emmdnFX3Jioe04wO1rf' //ganti pakai grup mu
 global.web = 'https://chat.whatsapp.com/IW8emmdnFX3Jioe04wO1rf' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://chat.whatsapp.com/IW8emmdnFX3Jioe04wO1rf' //ganti pakai Instagram mu
 global.saweria = 'https://saweria.co/zifabotz123' //bebas ganti aja pakai apa
-global.nomer = 'https://wa.me/6289524208209' //ganti jadi nomor mu
+global.nomer = 'https://wa.me/62895627514070' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -44,21 +44,21 @@ global.fotonya8 = 'https://telegra.ph/file/14ec0e0c93af4812d1fd7.jpg' //foto ses
 global.donasi = 'https://telegra.ph/file/43b9d77d06a0493708262.jpg' //ganti pakai poto payment atau apa
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'Sakura Chan'
+global.wm = 'ʟᴜᴍɪɴᴏᴜs-ᴍᴅ'
 global.watermark = wm
-global.wm2 = 'ᯤ Ham'
-global.wm3 = 'ᯤ Han 𝙾𝙵𝙲'
+global.wm2 = 'ᯤ ʟᴜᴍɪɴᴏᴜs-ᴍᴅ'
+global.wm3 = 'ᯤ ʀᴀʏ 𝙾𝙵𝙲'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wait = '_sedang diproses_'
-global.eror = '_*Server Bot Error*_'
+global.wait = '*sᴇᴅᴀɴɢ ᴅɪᴘʀᴏsᴇs*'
+global.eror = '_*ᴇʀʀᴏʀ*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
-global.stiker_wait = 'Stiker sedang Proses'
-global.packname = 'Hanz'
-global.author = '@Rayhan'
+global.stiker_wait = 'sᴛɪᴄᴋᴇʀ sᴇᴅᴀɴɢ ᴅɪʙᴜᴀᴛ..'
+global.packname = 'ʟᴜᴍɪɴᴏᴜs ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ ʙʏ'
+global.author = 'ʜᴀɴ ᴋᴏɴᴛᴋ ᴏᴡɴᴇʀ [62895627514070]'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
